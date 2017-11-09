@@ -1,0 +1,30 @@
+@media only screen and (max-width: 740px){
+#interest{
+float : none;
+margin-top:0%;
+}
+body{
+width:100%;
+}
+
+}
+
+@media only screen and (max-width: 570px){
+#interest{
+float : none;
+margin-top:0%;
+}
+body{
+width:100%;
+}
+}
+
+@media only screen and (max-width: 480px){
+#interest{
+float : none;
+margin-top:0%;
+}
+body{
+width:100%;
+}
+}

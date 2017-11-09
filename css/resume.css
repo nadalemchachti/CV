@@ -1,0 +1,58 @@
+
+html,button,input,select,textarea{
+color:#444 ;
+}
+
+html{
+font-size : 1em;
+line-height: 1.4;
+font-family: Calibri;
+}
+h1,h2,h3{
+color: 	#483D8B;
+}
+h1{
+font-family: cabin, sans-serif;
+}
+
+pre{
+font-size:1em;
+font-family: Calibri;
+}
+
+dt{
+font-style : bold;
+color : black;
+}
+#interest{
+float : right;
+margin-top:-28.5%;
+}
+
+footer{
+text-align: center;
+}
+
+h2{
+font-style : bold;
+text-align: center;
+font-size : 2em;
+margin-top : 7%;
+}
+
+#wrapper{
+max-width:900px;
+min-width:320px;
+margin: auto;    
+}
+
+img{
+float: right;
+border-color: #ccc;
+border-width: 1px;
+border-radius: 3px;
+background-color: white;
+box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+height:50%;
+width: 200px;
+}
